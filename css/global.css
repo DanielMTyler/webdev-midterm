@@ -272,6 +272,8 @@ footer p {
 }
 
 #menus table {
+    border-collapse: separate;
+    border-spacing: 2px;
     margin-bottom: 1em;
     margin-right: 0;
     width: 100%; /* This removes a "magic" margin-right on the tables. */
